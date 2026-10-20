@@ -10,7 +10,7 @@
 
 </div>
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 - **Framework**: [Flutter](https://flutter.dev/) (Dart)
 - **State Management & UI**: Material Design 3, `flutter_svg`
 - **Iconography**: Custom SVG & Material Icons
