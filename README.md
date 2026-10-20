@@ -3,10 +3,11 @@
 
 ## Tampilan Halaman
 <div align="center">
-### Login
-<img width="1179" height="2556" alt="localhost_64754_(iPhone 16)" src="https://github.com/user-attachments/assets/e5d27ca0-4fc9-44d6-b120-ca390ee4e481" />
-### Register
-<img width="1179" height="2556" alt="localhost_64754_(iPhone 16) (1)" src="https://github.com/user-attachments/assets/3709cb01-65a1-4add-bb3f-9565a7b5f4dd" />
+
+| Login | Register |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/e5d27ca0-4fc9-44d6-b120-ca390ee4e481" width="280" alt="Halaman Login" /> | <img src="https://github.com/user-attachments/assets/3709cb01-65a1-4add-bb3f-9565a7b5f4dd" width="280" alt="Halaman Register" /> |
+
 </div>
 
 ## 🛠️ Teknologi yang Digunakan
