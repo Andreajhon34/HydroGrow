@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 
 import '../../../core/theme/theme.dart';
 
-import 'package:flutter_svg/flutter_svg.dart';
-
 /// Reusable branded text field for auth screens.
 class AuthTextField extends StatefulWidget {
   const AuthTextField({
@@ -152,8 +150,7 @@ class GoogleSignInButton extends StatelessWidget {
       child: Row(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          // _GoogleLogoIcon(size: 20),
-          SvgPicture.asset('assets/icons/google.svg', height: 20, width: 20),
+          const _GoogleLogoIcon(size: 20),
           const SizedBox(width: 10),
           Text(
             'Masuk dengan Google',

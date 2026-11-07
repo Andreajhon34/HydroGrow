@@ -2,6 +2,7 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 
 import '../../../core/theme/theme.dart';
+import '../../navigation/main_navigation_shell.dart';
 import '../widgets/auth_widgets.dart';
 import 'register_screen.dart';
 
@@ -85,6 +86,8 @@ class _LoginScreenState extends State<LoginScreen> {
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
       ),
     );
+
+    Navigator.of(context).pushReplacementNamed(MainNavigationShell.routeName);
   }
 
   void _onGoogleSignIn() {
